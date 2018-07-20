@@ -1,0 +1,28 @@
+Barren Moor
+
+East
+
+- Has bear
+- Bear is occupied 
+- If the players get close to the bear it will notice the player, chase the player and eventually kill the player
+- An item is needed from west to bypass the area
+- When bear leaves, a corpse is discovered with a gold key tied around its neck is discoverd
+- player picks gold key or stay until the bear comes back and kills the player
+
+West
+- Has beehive
+- Stick is nearby, player can grab or leave the stick
+- Stick can be used to hit beehive but as a result will get stung to death
+- If player sets the stick on fire it can be used to take down beehive which will drop honey
+- honey is used to bypass bear
+
+North
+- Contains treasure
+
+South
+- Edge of a cliff
+- Player has option to leave, proceed, or search
+- search option will allow player to find flint and coal
+- If player procceds, player falls off the cliff
+
+Winning sequence:  SOUTH > WEST > EAST NORTH
